@@ -4,7 +4,7 @@
 	"description": "A react date range picker implementation using @material-ui.",
 	"author": "pedro-lb",
 	"license": "MIT",
-	"repository": "pedro-lb/materialui-daterange-picker",
+	"repository": "https://github.com/digivizer/materialui-daterange-picker",
 	"main": "dist/index.js",
 	"module": "dist/index.es.js",
 	"jsnext:main": "dist/index.es.js",
