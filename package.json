@@ -1,7 +1,7 @@
 {
 	"name": "materialui-daterange-picker",
 	"version": "1.1.92",
-	"description": "A react date range picker implementation using @material-ui.",
+	"description": "A react date range picker implementation using @material-ui for Digivizer.",
 	"author": "pedro-lb",
 	"license": "MIT",
 	"repository": "digivizer/materialui-daterange-picker",
